@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="Aula_04_Estrutura_sequencial"/>
+	<classpathentry kind="src" path="Aula_05_Estruturas_Condicionais"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
