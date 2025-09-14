@@ -1,0 +1,18 @@
+Codigo
+	
+	int x = 0;
+	int y = 4;
+	
+	while(x < 3) {
+		y = y + 2;
+		x = x + 1;
+		System.out.println(x + "-" + y);
+	}
+
+Resultado teste de mesa
+		
+X = 0	Y = 4	Tela = nada
+X = 1	Y = 6	Tela = 1 - 6
+X = 2	Y = 8	Tela = 2 - 8
+X = 3	Y = 10	Tela = 3 - 10
+
