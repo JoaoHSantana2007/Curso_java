@@ -1,4 +1,4 @@
-package Exercicios.While_Codigos;
+package Exercicios.While.Codigos;
 
 import java.util.Scanner;
 

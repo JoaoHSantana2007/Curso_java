@@ -2,7 +2,7 @@ package While;
 
 import java.util.Scanner;
 
-public class Aula_01 {
+public class While {
 	
 	public static void main(String[] args) {
 		
