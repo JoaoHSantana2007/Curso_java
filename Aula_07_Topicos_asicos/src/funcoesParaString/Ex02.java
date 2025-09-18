@@ -1,6 +1,6 @@
-package Funcoes_Para_String;
+package funcoesParaString;
 
-public class Ex_02 {
+public class Ex02 {
 
     public static void main(String[] args) {
 

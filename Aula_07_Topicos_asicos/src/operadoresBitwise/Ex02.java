@@ -1,8 +1,8 @@
-package Operadores_Bitwise;
+package operadoresBitwise;
 
 import java.util.Scanner;
 
-public class Ex_02 {
+public class Ex02 {
 
     public static void main(String[] args) {
 

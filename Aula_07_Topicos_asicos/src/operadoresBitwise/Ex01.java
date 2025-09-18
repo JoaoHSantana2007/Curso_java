@@ -1,6 +1,6 @@
-package Operadores_Bitwise;
+package operadoresBitwise;
 
-public class Ex_01 {
+public class Ex01 {
 
     public static void main(String[] args) {
 
